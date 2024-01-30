@@ -1,0 +1,14 @@
+{
+  "name": "syllablecounter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "syllablecounter.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
