@@ -12,13 +12,13 @@ This project is a simple Node.js application for counting syllables in words usi
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/faustinozanetto/syllable-counter.git
+git clone https://github.com/faustinozanetto/SyllableCounter
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd syllable-counter
+cd SyllableCounter
 ```
 
 3. Install the dependencies:
